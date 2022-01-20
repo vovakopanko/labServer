@@ -1,0 +1,143 @@
+{
+    "gameCards": [
+        {
+            "id": 0,
+            "title": "OverWatch",
+            "prise": "23.99$",
+            "url": "https://m.media-amazon.com/images/I/81nJHwLsN+L._SL1500_.jpg",
+            "alt": "OverWatch",
+            "amountStars": 5,
+            "age": "12+",
+            "description": "Overwatch is a vibrant team game with a diverse cast of heroes. Travel the world, fight for objects and lead your team to victory in 6v6 battles. ",
+            "imagePlatforms": [{ "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png", "alt": "PCLogo" }]
+          },
+          {
+            "id": 1,
+            "title": "MineCraft",
+            "prise": "25.99$",
+            "url": "https://image.api.playstation.com/vulcan/img/cfn/11307x4B5WLoVoIUtdewG4uJ_YuDRTwBxQy0qP8ylgazLLc01PBxbsFG1pGOWmqhZsxnNkrU3GXbdXIowBAstzlrhtQ4LCI4.png",
+            "alt": "MineCraft",
+            "amountStars": 4,
+            "age": "14+",
+            "description":
+              "Minecraft is an indie sandbox computer game created by Swedish programmer Markus Persson and published by his company Mojang AB.",
+            "imagePlatforms": [
+              { "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png", "alt": "XboxLogo" },
+              { "id": 1, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png", "alt": "PCLogo" },
+              { "id": 2, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png", "alt": "PSLogo" }
+            ]
+          },
+          {
+            "id": 2,
+            "title": "Terraria",
+            "prise": "4.99$",
+            "url": "https://image.api.playstation.com/vulcan/img/cfn/11307z-RHo6rTa3uirsDi0iizda464KBuLB8IIbccr0JVoUUAHIWBHXozEJjj1QqsG2tVZPIPmcvjY-CL_t3pZ6jIlkWFz3C.png",
+            "alt": "Terraria",
+            "amountStars": 3,
+            "age": "10+",
+            "description":
+              "Terraria is a sandbox adventure computer game developed by the American studio Re-Logic. It was released in 2011 for Microsoft Windows computers and distributed through the digital distribution system Steam.",
+            "imagePlatforms": [
+              { "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png", "alt": "PCLogo" },
+              { "id": 1, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png", "alt": "PSLogo" }
+            ]
+          },
+          {
+            "id": 3,
+            "title": "SIMS 4",
+            "prise": "1.99$",
+            "url": "https://content2.rozetka.com.ua/goods/images/big/11174234.jpg",
+            "alt": "Sims",
+            "amountStars": 2,
+            "age": "4+",
+            "description":
+              "The Sims 4 is a 2014 social simulation game developed by Maxis and published by Electronic Arts.",
+            "imagePlatforms": [
+              { "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png", "alt": "XboxLogo" },
+              { "id": 1, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png", "alt": "PCLogo" },
+              { "id": 2, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png", "alt": "PSLogo" }
+           ]
+          },
+          {
+            "id": 4,
+            "title": "GTA",
+            "prise": "6.66$",
+            "url": "https://upload.wikimedia.org/wikipedia/ru/2/26/V_City-PS2.jpg",
+            "alt": "GTA",
+            "amountStars": 5,
+            "age": "12+",
+            "description":
+              "Grand Theft Auto: Vice City is an action-adventure game played from a third-person perspective.",
+            "imagePlatforms": [
+              { "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png", "alt": "PCLogo" }
+            ]
+          },
+          {
+            "id": 5,
+            "title": "Counter-Strike",
+            "prise": "6.99$",
+            "url": "https://upload.wikimedia.org/wikipedia/ru/a/a9/CS-S_Box.jpg",
+            "alt": "CounterStrike",
+            "amountStars": 5,
+            "age": "16+",
+            "description":
+              "The client is compiled on the basis of the original cs 1.6, maximum removed all unnecessary files, reduced weight cs 1.6.",
+            "imagePlatforms": [
+              { "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png", "alt": "XboxLogo" },
+              { "id": 1, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png", "alt": "PSLogo" }
+            ]
+          }
+          
+    ],
+    "categories" : [
+      { "id": 0, "alt": "windows", "title": "PC", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png" },
+      { "id": 1, "alt": "playstation", "title": "Playstation 5", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png" },
+      { "id": 2, "alt": "xbox", "title": "Xbox One", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png" }
+    ],
+    "logoGames" : [
+      {
+        "id": 0,
+        "alt": "activision",
+        "link": "https://www.activision.com/",
+        "image": "https://download.logo.wine/logo/Blizzard_Entertainment/Blizzard_Entertainment-Logo.wine.png"
+      },
+      {
+        "id": 1,
+        "alt": "ea",
+        "image": "https://seeklogo.com/images/E/EA_Sports-logo-3DF52C2652-seeklogo.com.png",
+        "link": "https://www.ea.com/ru-ru"
+      },
+      {
+        "id": 2,
+        "alt": "epic_games",
+        "image": "https://i.pinimg.com/originals/e4/1d/64/e41d64f1c2bb2aee0ffc3bef82640179.png",
+        "link": "https://www.epicgames.com/site/en-US/home"
+      },
+      {
+        "id": 3,
+        "alt": "game_pack",
+        "image": "https://gamepackstudio.com/wp-content/uploads/2018/02/logo-GamePack_cut.png",
+        "link": "https://gamepackstudio.com/"
+      },
+      {
+        "id": 4,
+        "alt": "playstation",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png",
+        "link": "https://www.playstation.com/ru-ru/"
+      },
+      { "id": 5, "alt": "sega", "image": "https://w7.pngwing.com/pngs/569/248/png-transparent-puyo-puyo-tetris-sega-logo-video-game-sega-sammy-holdings-blue-text-trademark.png", "link": "https://www.sega.com/" },
+      {
+        "id": 6,
+        "alt": "sumo_digital",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Sumo_Digital_logo.svg/1200px-Sumo_Digital_logo.svg.png",
+        "link": "https://www.sumo-digital.com"
+      },
+      {
+        "id": 7,
+        "alt": "xbox",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png",
+        "link": "https://www.xbox.com/ru-RU/"
+      }
+    ]
+    
+}
