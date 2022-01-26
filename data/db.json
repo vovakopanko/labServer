@@ -74,7 +74,22 @@
           },
           {
             "id": 5,
-            "title": "Counter-Strike",
+            "title": "Counter-Strike: Sourse",
+            "prise": "6.99$",
+            "url": "https://upload.wikimedia.org/wikipedia/ru/a/a9/CS-S_Box.jpg",
+            "alt": "CounterStrike",
+            "amountStars": 5,
+            "age": "16+",
+            "description":
+              "The client is compiled on the basis of the original cs 1.6, maximum removed all unnecessary files, reduced weight cs 1.6.",
+            "imagePlatforms": [
+              { "id": 0, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png", "alt": "XboxLogo" },
+              { "id": 1, "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/1280px-Playstation_logo_colour.svg.png", "alt": "PSLogo" }
+            ]
+          },
+          {
+            "id": 6,
+            "title": "Counter-Srike: 1.6",
             "prise": "6.99$",
             "url": "https://upload.wikimedia.org/wikipedia/ru/a/a9/CS-S_Box.jpg",
             "alt": "CounterStrike",
